@@ -1,0 +1,22 @@
+.target {
+	margin-inline: auto;
+	width: 25%;
+	aspect-ratio: 1;
+	border: 2px solid whitesmoke;
+}
+
+.choices {
+	display: flex;
+	justify-content: center;
+	gap: 1rem;
+
+	margin-top: 2.5rem;
+	margin-inline: auto;
+}
+
+.choice {
+	border: 2px solid whitesmoke;
+	padding: 0.5rem 1rem;
+
+	font-weight: 900;
+}
